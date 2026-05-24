@@ -1,100 +1,152 @@
+<!-- ⚡ FUTURISTIC PRO MAX PROFILE ⚡ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=180&section=header&text=Siva%20Varun%20Kumar%20Bommagunta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-<a href="https://github.com/varunbommagunta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&width=750&lines=Building+production+AI+systems;Specialised+in+Agentic+AI+%26+RAG;Multi-agent+orchestration+%7C+LLM+routing;Currently+exploring+fine-tuning+%26+evaluation" alt="Typing SVG" />
-</a>
+
+<!-- Animated holographic header banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:1a0033,100:0a0e27&height=200&section=header&text=SIVA%20VARUN%20KUMAR&fontSize=48&fontColor=06ffd1&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20AI%20%2F%20ML%20ENGINEER%20%E2%9A%A1&descAlignY=68&descSize=18&descColor=a78bfa" width="100%"/>
+
+<!-- Animated tagline with multi-line typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=06FFD1&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9C%A6+Architecting+production+agentic+AI+systems;%E2%9A%A1+Multi-agent+orchestration+%7C+Custom+MCP+servers;%F0%9F%94%AE+Pushing+the+boundary+of+autonomous+research;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+
 <br/>
-<a href="https://linkedin.com/in/siva-varun-kumar-bommagunta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:varunbommagunta@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://medium.com/@varunbommagunta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://indiavc.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<!-- Holographic divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+<br/><br/>
+
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-06ffd1?style=flat-square&labelColor=000000&color=06ffd1" />
+<img src="https://img.shields.io/badge/LOCATION-NELLORE%2C%20INDIA-a78bfa?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-ff006e?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-fb5607?style=flat-square&labelColor=000000" />
+
+<br/><br/>
+
+<!-- Connect badges -->
+<a href="https://linkedin.com/in/siva-varun-kumar-bommagunta">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0a0e27?style=for-the-badge&logo=linkedin&logoColor=06FFD1&labelColor=0a0e27&color=0a0e27" />
+</a>
+<a href="mailto:varunbommagunta@gmail.com">
+  <img src="https://img.shields.io/badge/-EMAIL-0a0e27?style=for-the-badge&logo=gmail&logoColor=06FFD1&labelColor=0a0e27" />
+</a>
+<a href="https://medium.com/@varunbommagunta">
+  <img src="https://img.shields.io/badge/-MEDIUM-0a0e27?style=for-the-badge&logo=medium&logoColor=06FFD1&labelColor=0a0e27" />
+</a>
+<a href="https://indiavc.vercel.app">
+  <img src="https://img.shields.io/badge/-LIVE%20DEMO-06ffd1?style=for-the-badge&logo=vercel&logoColor=0a0e27&labelColor=06ffd1" />
+</a>
+
+<br/><br/>
+
+<!-- Animated cyber separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+
 </div>
 
 <br/>
 
-## About
+## ⌬ SYSTEM PROFILE
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
-I'm an AI/ML engineer graduate from R.M.D Engineering College (CGPA 9.14) building production agentic AI systems. My focus is on multi-agent orchestration, Retrieval-Augmented Generation, and evaluation frameworks that make AI systems measurable, not just impressive.
-
-I build with the production stack — FastAPI, Next.js, OpenAI SDK, MCP — and ship to Hugging Face Spaces and Vercel. Every project has tests, evals, and an iteration log.
-
-**Currently:** Job hunting for AI/ML Engineer roles in India. Building personal projects to deepen my agentic AI stack.
-
-**Based in:** Nellore, India
+```yaml
+╔════════════════════════════════════════╗
+║   IDENTITY MATRIX                      ║
+╠════════════════════════════════════════╣
+║ name      :  Siva Varun Kumar          ║
+║ role      :  AI/ML Engineer            ║
+║ class     :  Agentic Systems Architect ║
+║ origin    :  Nellore, India            ║
+║ education :  B.Tech IT  ⟶  CGPA 9.14   ║
+║ status    :  ACTIVELY SEEKING ROLES    ║
+╠════════════════════════════════════════╣
+║   CORE STACK                           ║
+╠════════════════════════════════════════╣
+║ ▸ Python · TypeScript · C++            ║
+║ ▸ FastAPI · Next.js · Docker           ║
+║ ▸ OpenAI SDK · MCP · PyTorch           ║
+║ ▸ ChromaDB · RAGAS · Tailwind          ║
+╠════════════════════════════════════════╣
+║   ACTIVE QUESTS                        ║
+╠════════════════════════════════════════╣
+║ ▸ Fine-tuning small models with LoRA   ║
+║ ▸ Custom MCP server architectures      ║
+║ ▸ LLM evaluation beyond RAGAS          ║
+║ ▸ Pushing agent quality measurably     ║
+╚════════════════════════════════════════╝
+```
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="45%" align="center">
 
-<pre>
-role: AI/ML Engineer
-focus:
-  - Agentic AI
-  - Multi-agent systems
-  - RAG pipelines
-  - LLM evaluation
-location: India
-availability: open
-stack:
-  - Python, TypeScript
-  - FastAPI, Next.js
-  - OpenAI, MCP, RAG
-</pre>
+<!-- Holographic AI gif -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+
+<br/>
+<sub>> SYSTEM ONLINE.</sub>
+<br/>
+<sub>> READY FOR DEPLOYMENT.</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Featured Projects
+<!-- Section divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
 
-### IndiaVC — Multi-Agent AI Research System
+## ⟡ FEATURED PROJECTS
+
+### `[01]` ⚡ INDIAVC — Multi-Agent Research Platform
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-A production multi-agent system for Indian startup due diligence. Six specialised AI agents — Orchestrator, Web Researcher, News Analyzer, Competitor Analyzer, Critic, Writer — collaborate via the Model Context Protocol (MCP) to produce investor briefs with citations.
+A production multi-agent system for Indian startup due diligence.
+Six specialized AI agents collaborate via the Model Context Protocol to produce investor-grade research briefs.
 
-**Highlights**
+```diff
++ 6 specialized agents (Orchestrator + 5 workers)
++ Custom MCP server  ⟶  26 Indian companies indexed
++ LLM router  ⟶  60% cost reduction
++ Critic agent with reflection  ⟶  catches contradictions
++ Human-in-the-loop approval gate
++ LLM-as-judge evaluation  ⟶  8.29/10 overall
++ Sub-40s response time, 52 tests, full type coverage
+```
 
-- Custom MCP server exposing structured data on 26 Indian companies via stdio transport
-- LLM router (gpt-4o for reasoning, gpt-4o-mini for tools) cuts cost by ~60%
-- Reflection step where Critic reviews findings before final synthesis
-- Human-in-the-loop approval gate before final brief
-- LLM-as-judge evaluation: **8.29/10** across 10 representative queries
-- 52 tests, full type-checking, deployed on HF Spaces + Vercel
-
-**Stack:** FastAPI · Next.js 15 · TypeScript · OpenAI SDK · MCP Python SDK · Tailwind · Framer Motion
+**STACK** ▸ `FastAPI` · `Next.js 15` · `TypeScript` · `OpenAI SDK` · `MCP Python SDK` · `Tailwind` · `Framer Motion`
 
 </td>
 <td valign="top" width="40%" align="center">
 
 <a href="https://indiavc.vercel.app">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/▸%20LAUNCH%20DEMO-06ffd1?style=for-the-badge&labelColor=000000" />
 </a>
 <br/>
 <a href="https://github.com/varunbommagunta/indiavc">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/▸%20SOURCE%20CODE-a78bfa?style=for-the-badge&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-**Evaluation Scores**
+**◈ EVALUATION MATRIX**
 
-| Dimension | Score |
-|-----------|-------|
-| Overall | **8.29 / 10** |
+| METRIC | SCORE |
+|---|---|
+| Overall | **8.29** |
 | Completeness | 9.29 |
 | Specificity | 8.43 |
 | Balance | 8.86 |
 | Accuracy | 8.71 |
 
-`35.5s avg response time`
+<sub> ⏱  35.5s avg · 13.7 tool calls</sub>
 
 </td>
 </tr>
@@ -102,166 +154,229 @@ A production multi-agent system for Indian startup due diligence. Six specialise
 
 <br/>
 
-### DocuVerse — End-to-End RAG System
+### `[02]` ⚡ DOCUVERSE — End-to-End RAG Pipeline
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
-A production Retrieval-Augmented Generation pipeline for Indian government documents (Constitution + ARC reports). Built iteratively in measured phases with RAGAS evaluation at every stage.
+Production Retrieval-Augmented Generation for Indian government documents.
+Built iteratively in measured phases with rigorous RAGAS evaluation.
 
-**Highlights**
+```diff
++ Hybrid retrieval  ⟶  BM25 + dense + RRF + cross-encoder rerank
++ Auto-ingestion from official gov.in sources
++ Iterative phases  ⟶  faithfulness 0.773 → 0.829
++ 95 tests, deployment to HF Spaces with persistent storage
++ Full ITERATION_LOG  ⟶  every decision documented
++ Docker + nginx + supervisord production setup
+```
 
-- Hybrid retrieval: BM25 + dense embeddings + RRF fusion + cross-encoder reranking
-- Auto-ingestion of curated corpus from official gov.in sources
-- Faithfulness improved from 0.773 → **0.829** across iterations
-- 95 tests, deployed to HF Spaces with persistent storage
-- Full ITERATION_LOG documenting every engineering decision
-
-**Stack:** FastAPI · ChromaDB · OpenAI · Streamlit · RAGAS · Docker · nginx · supervisord
+**STACK** ▸ `FastAPI` · `ChromaDB` · `OpenAI` · `Streamlit` · `RAGAS` · `Docker` · `nginx` · `supervisord`
 
 </td>
 <td valign="top" width="40%" align="center">
 
 <a href="https://varunbommagunta-docuverse.hf.space">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/▸%20LAUNCH%20DEMO-06ffd1?style=for-the-badge&labelColor=000000" />
 </a>
 <br/>
 <a href="https://github.com/varunbommagunta/docuverse">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/▸%20SOURCE%20CODE-a78bfa?style=for-the-badge&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-**Evaluation Metrics**
+**◈ RAGAS METRICS**
 
-| Metric | Score |
-|--------|-------|
+| METRIC | SCORE |
+|---|---|
 | Faithfulness | **0.829** |
 | Answer Relevance | 0.779 |
 | Context Precision | 0.746 |
 | Context Recall | 0.819 |
 
-`95 unit tests passing`
+<sub> 🧪 95 tests passing</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Tech Stack
+<br/>
 
 <div align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<br/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
-<br/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<br/>
-
-**Deployment**
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace_Spaces-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
----
-
-## GitHub Stats
+## ⌬ ARSENAL
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varunbommagunta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbommagunta&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="180" />
+
+**⟪ AI / ML CORE ⟫**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark" />
+
 <br/>
-<img src="https://streak-stats.demolab.com?user=varunbommagunta&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=06b6d4&fire=a78bfa&currStreakLabel=06b6d4" height="180" />
+
+<img src="https://img.shields.io/badge/-OpenAI-0a0e27?style=for-the-badge&logo=openai&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-Anthropic-0a0e27?style=for-the-badge&logo=anthropic&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-HuggingFace-0a0e27?style=for-the-badge&logo=huggingface&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-LangChain-0a0e27?style=for-the-badge&logo=chainlink&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-ChromaDB-0a0e27?style=for-the-badge&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-MCP-0a0e27?style=for-the-badge&logoColor=06ffd1" />
+
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbommagunta&bg_color=0d1117&color=06b6d4&line=a78bfa&point=22d3ee&area=true&hide_border=true" width="98%" />
+
+**⟪ BACKEND ⟫**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx,linux,bash&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Pydantic-0a0e27?style=for-the-badge&logo=pydantic&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-pytest-0a0e27?style=for-the-badge&logo=pytest&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-Uvicorn-0a0e27?style=for-the-badge&logoColor=06ffd1" />
+
+<br/><br/>
+
+**⟪ FRONTEND ⟫**
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,vercel&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Framer%20Motion-0a0e27?style=for-the-badge&logo=framer&logoColor=06ffd1" />
+<img src="https://img.shields.io/badge/-shadcn%2Fui-0a0e27?style=for-the-badge&logoColor=06ffd1" />
+
+<br/><br/>
+
+**⟪ DEPLOYMENT ⟫**
+
+<img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,aws&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-HF%20Spaces-0a0e27?style=for-the-badge&logo=huggingface&logoColor=06ffd1" />
+
 </div>
 
----
+<br/>
 
-## Education & Certifications
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+## ⟢ TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=varunbommagunta&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=06ffd1&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=⟪%20PERFORMANCE%20METRICS%20⟫" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbommagunta&layout=compact&hide_border=true&bg_color=0a0e27&title_color=06ffd1&text_color=ffffff&langs_count=8&custom_title=⟪%20LANGUAGE%20DISTRIBUTION%20⟫" height="200" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=varunbommagunta&theme=dark&hide_border=true&background=0a0e27&stroke=06ffd1&ring=06ffd1&fire=ff006e&currStreakLabel=06ffd1&sideLabels=a78bfa&dates=ffffff&currStreakNum=06ffd1&sideNums=06ffd1" height="200" />
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbommagunta&bg_color=0a0e27&color=06ffd1&line=a78bfa&point=ff006e&area=true&hide_border=true&custom_title=⟪%20COMMIT%20ACTIVITY%20⟫" width="98%" />
+
+<br/><br/>
+
+<!-- Trophy showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=varunbommagunta&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+## ⌬ CREDENTIALS
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Education**
+**⟪ ACADEMIC PROTOCOL ⟫**
 
-**B.Tech, Information Technology**
-R.M.D Engineering College, Tamil Nadu
-2019 – 2023 · CGPA 9.14
+```
+╭─ B.Tech, Information Technology
+│  R.M.D Engineering College, Tamil Nadu
+│  2019 – 2023
+╰─ ▸ CGPA: 9.14 / 10
 
-**Intermediate Education**
-Narayana Junior College, Andhra Pradesh
-2017 – 2019 · CGPA 9.67
+╭─ Intermediate (12th)
+│  Narayana Junior College, AP
+│  2017 – 2019
+╰─ ▸ CGPA: 9.67 / 10
+```
 
 </td>
 <td valign="top" width="50%">
 
-**Certifications**
+**⟪ CERTIFICATIONS UNLOCKED ⟫**
 
-- IBM RAG and Agentic AI Specialization — IBM
-- Neural Networks and Deep Learning — Coursera
-- Convolutional Neural Networks — Coursera
-- Mathematics for ML: Linear Algebra — Coursera
-- Data Analysis with Python — freeCodeCamp
+```
+◆ IBM RAG and Agentic AI Specialization
+◆ Neural Networks and Deep Learning
+◆ Convolutional Neural Networks
+◆ Mathematics for ML: Linear Algebra
+◆ Data Analysis with Python
+```
+<sub>Coursera · IBM · freeCodeCamp</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Currently Exploring
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
 
-- 🔍  Fine-tuning small language models with LoRA
-- 🔬  Custom MCP server design for production agents
-- 📊  LLM evaluation frameworks beyond RAGAS
-- 🛠️  Building agentic systems with measurable quality
-
----
-
-## Get in Touch
+## ⟡ TRANSMISSION OPEN
 
 <div align="center">
 
-I'm actively looking for **AI/ML Engineer** roles in India. If you're building agentic AI, RAG, or evaluation systems — let's talk.
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   ▸ Open to AI/ML Engineer roles in India                  ║
+║   ▸ Particularly interested in agentic AI, RAG, evals      ║
+║   ▸ Available for full-time positions immediately          ║
+║                                                            ║
+║   ╭─ If you're building the future of AI ─╮                ║
+║   │   ⟶  Let's talk.                       │                ║
+║   ╰────────────────────────────────────────╯                ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<br/>
 
 <a href="mailto:varunbommagunta@gmail.com">
-  <img src="https://img.shields.io/badge/Reach%20Out%20via%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/▸%20INITIATE%20EMAIL-ff006e?style=for-the-badge&labelColor=000000" />
 </a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/siva-varun-kumar-bommagunta">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/▸%20CONNECT%20LINKEDIN-06ffd1?style=for-the-badge&labelColor=000000" />
 </a>
 
+<br/><br/><br/>
+
+<!-- Visitor counter for vibes -->
+<img src="https://komarev.com/ghpvc/?username=varunbommagunta&label=PROFILE%20VIEWS&color=06ffd1&style=for-the-badge&labelColor=000000" />
+
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=120&section=footer" width="100%"/>
-<sub>Profile updated 2026 · Built with Markdown and a lot of badges</sub>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a0033,100:0a0e27&height=140&section=footer&text=%E2%9A%A1%20BUILDING%20THE%20FUTURE%20%E2%9A%A1&fontSize=20&fontColor=06ffd1&fontAlignY=68" width="100%"/>
+
 </div>
+
+<div align="center"><sub>> END OF TRANSMISSION.  ⟶  ALL SYSTEMS NOMINAL.</sub></div>
